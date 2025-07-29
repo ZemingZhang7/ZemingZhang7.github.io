@@ -1,6 +1,8 @@
 ---
 title: "Program"
 permalink: /program/
+layout: single
+author_profile: true
 ---
 
 我们的研究计划包括：  
