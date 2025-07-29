@@ -20,6 +20,14 @@ url                      : "https://ZemingZhang7.github.io"
 baseurl                  : ""                # root 目录就留空
 repository               : "ZemingZhang7/ZemingZhang7.github.io"
 
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"   # 版本号可省略
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-include-cache        # ★ Minimal-Mistakes 要求
 # ------------------------------------------------------------------
 # Site Author（左侧栏资料，视主题而定）
 author:
