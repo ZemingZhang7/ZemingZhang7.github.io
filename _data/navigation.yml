@@ -1,12 +1,16 @@
 main:
   - name: Publications
     url: /publications/
+    
   - name: People
     url: /people/
+    
   - name: Teaching
     url: /teaching/
+    
   - name: Activity
     url: /activity/
+    
   - name: Program
     url: /program/
     
